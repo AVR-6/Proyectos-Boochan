@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portada - Indice.md",
+                "file": "02-Bochan-2/Manual BoochanV2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Portada - Indice"
+              "title": "Manual BoochanV2"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "68c57a234843c4ac",
   "lastOpenFiles": [
-    "02-Bochan-2/Pasted image 20260211113142.png",
     "Portada - Indice.md",
+    "02-Bochan-2/Pasted image 20260211113142.png",
     "02-Bochan-2/Manual BoochanV2.md",
     "01-Bochan-1/index.md",
     "01-Bochan-1/Proyecto integrador.canvas"
