@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68c57a234843c4ac",
+            "id": "28fc1d95efb7821b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Bochan-2/Manual BoochanV2.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Manual BoochanV2"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -184,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68c57a234843c4ac",
+  "active": "28fc1d95efb7821b",
   "lastOpenFiles": [
+    "01-Bochan-1/Fases/Fase 1 PIKACHU (Aprovisionamiento, Particionado y Red Estática).md",
+    "02-Bochan-2/Manual BoochanV2.md",
     "Portada - Indice.md",
     "02-Bochan-2/Pasted image 20260211113142.png",
-    "02-Bochan-2/Manual BoochanV2.md",
     "01-Bochan-1/index.md",
     "01-Bochan-1/Proyecto integrador.canvas"
   ]
