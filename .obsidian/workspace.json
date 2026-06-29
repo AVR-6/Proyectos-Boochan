@@ -11,10 +11,14 @@
             "id": "28fc1d95efb7821b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Bochan-1/Fases/Fase 7 PHOENIX (Auditoría de Seguridad y Pentesting (SI)).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Fase 7 PHOENIX (Auditoría de Seguridad y Pentesting (SI))"
             }
           }
         ]
@@ -182,8 +186,10 @@
   },
   "active": "28fc1d95efb7821b",
   "lastOpenFiles": [
-    "01-Bochan-1/Fases/Fase 1 PIKACHU (Aprovisionamiento, Particionado y Red Estática).md",
+    "01-Bochan-1/Fases/Fase 8 ONIX (Escalabilidad de Almacenamiento (SOR)).md",
+    "01-Bochan-1/Fases/Fase 9 DARK SOULS (Auditoría de Seguridad y Pentesting (SI)).md",
     "02-Bochan-2/Manual BoochanV2.md",
+    "01-Bochan-1/Fases/Fase 1 PIKACHU (Aprovisionamiento, Particionado y Red Estática).md",
     "Portada - Indice.md",
     "02-Bochan-2/Pasted image 20260211113142.png",
     "01-Bochan-1/index.md",
