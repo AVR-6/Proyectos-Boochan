@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "6848cd418a239a97",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -37,7 +50,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -180,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28fc1d95efb7821b",
+  "active": "6848cd418a239a97",
   "lastOpenFiles": [
     "02-Bochan-2/Manual BoochanV2.md",
     "02-Bochan-2/Pasted image 20260211113142.png",
